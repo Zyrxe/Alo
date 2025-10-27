@@ -1,0 +1,8 @@
+{
+  "name": "ALONEA (Testnet)",
+  "symbol": "ALO",
+  "network": "sepolia",
+  "decimals": 18,
+  "totalSupply": "22000000000",
+  "referencePriceUSD": "12.59"
+}
